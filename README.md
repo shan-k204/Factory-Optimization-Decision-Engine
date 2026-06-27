@@ -280,10 +280,10 @@ screenshots/simulation.png
 
 ## Data Explorer
 
-> ![](Screenshots/Data_explorer.png)
+> ![](Screenshots/data_explorer.png)
 
 ```
-screenshots/Data_explorer.png
+screenshots/data_explorer.png
 ```
 
 ---
