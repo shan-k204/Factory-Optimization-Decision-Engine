@@ -202,11 +202,12 @@ factory-optimization-decision-engine/
 │   ├── Nassau Candy Distributor.csv
 │   └── Processed_nassau_candy_data.csv
 │
-├── screenshots/
+├── Screenshots/
 │
-├── factory_optimization.ipynb
-├── modeling.ipynb
-├── simulation_engine.ipynb
+├── Notebooks/
+│   ├── factory_optimization.ipynb
+│   ├── modeling.ipynb
+│   └── simulation_engine.ipynb
 │
 ├── requirements.txt
 ├── README.md
@@ -247,17 +248,18 @@ streamlit run App/factory_decision_engine.py
 
 ## Dashboard Overview
 
-> Add screenshot
+> ![](Screenshots/overview.png)
 
 ```
-screenshots/dashboard-home.png
+screenshots/overview.png
 ```
 
 ---
 
 ## Factory Analysis
 
-> Add screenshot
+> ![](Screenshots/factory_analysis1.png)
+> ![](Screenshots/factory_analysis2.png)
 
 ```
 screenshots/analysis.png
@@ -267,7 +269,8 @@ screenshots/analysis.png
 
 ## Scenario Simulator
 
-> Add screenshot
+> ![](Screenshots/Simulation1.png)
+> ![](Screenshots/Simulation2.png)
 
 ```
 screenshots/simulation.png
@@ -275,12 +278,22 @@ screenshots/simulation.png
 
 ---
 
-## Business Recommendations
+## Data Explorer
 
-> Add screenshot
+> ![](Screenshots/Data_explorer.png)
 
 ```
-screenshots/recommendations.png
+screenshots/Data_explorer.png
+```
+
+---
+
+## Filters
+
+> ![](Screenshots/filters.png)
+
+```
+screenshots/filters.png
 ```
 
 ---
@@ -308,7 +321,7 @@ GitHub:
 https://github.com/shan-k204
 
 LinkedIn:
-(Add your LinkedIn)
+www.linkedin.com/in/shantanu-kamble-64a21929a
 
 ---
 
